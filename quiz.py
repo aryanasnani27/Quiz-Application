@@ -1,5 +1,5 @@
 print("-"*40)
-print("WELCOME TO QUIZ")
+print("WELCOME TO QUIZ".center(40)
 print("-"*40)
 
 users={}
